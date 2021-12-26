@@ -1,4 +1,4 @@
-Title, Age, MaritalStatus, SalariedFlag, Gender, PayFrequency, BaseRate, VacationHours, SickLeaveHours, SalesPersonFlag, DepartmentName, StartDate, EndDate
+Title,Age,MaritalStatus,SalariedFlag,Gender,PayFrequency,BaseRate,VacationHours,SickLeaveHours,SalesPersonFlag,DepartmentName,StartDate,EndDate
 Production Technician - WC60,40,M,0,M,1,12.45,21,30,0,Production,2006-01-28,NULL
 Marketing Assistant,35,S,0,M,2,13.4615,42,41,0,Marketing,2006-08-26,NULL
 Engineering Manager,47,M,1,M,2,43.2692,2,21,0,Engineering,2007-06-11,NULL
