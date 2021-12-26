@@ -1,0 +1,297 @@
+﻿Title, BirthDate, MaritalStatus, SalariedFlag, Gender, PayFrequency, BaseRate, VacationHours, SickLeaveHours, SalesPersonFlag, DepartmentName, StartDate, EndDate
+Production Technician - WC60,1981-11-12,M,0,M,1,12.45,21,30,0,Production,2006-01-28,NULL
+Marketing Assistant,1986-12-01,S,0,M,2,13.4615,42,41,0,Marketing,2006-08-26,NULL
+Engineering Manager,1974-06-12,M,1,M,2,43.2692,2,21,0,Engineering,2007-06-11,NULL
+Senior Tool Designer,1974-07-23,S,0,M,2,29.8462,48,80,0,Tool Design,2007-07-05,2009-12-28
+Senior Tool Designer,1974-07-23,S,0,M,2,29.8462,48,80,0,Tool Design,2009-12-28,NULL
+Tool Designer,1959-02-26,M,0,M,2,25.00,9,24,0,Tool Design,2007-07-11,NULL
+Marketing Manager,1974-10-17,S,1,M,2,37.50,40,40,0,Marketing,2007-07-20,2009-02-11
+Marketing Manager,1974-10-17,S,1,M,2,37.50,40,40,0,Marketing,2009-02-12,NULL
+Production Supervisor - WC60,1955-08-16,S,0,F,2,25.00,82,61,0,Production,2007-07-26,NULL
+Production Technician - WC10,1956-01-03,M,0,F,1,13.45,83,61,0,Production,2007-08-06,NULL
+Design Engineer,1952-04-27,M,1,F,2,32.6923,5,22,0,Engineering,2007-08-06,NULL
+Production Technician - WC10,1955-10-25,S,0,M,1,13.45,88,64,0,Production,2007-08-07,NULL
+Design Engineer,1958-10-09,M,1,M,2,32.6923,6,23,0,Engineering,2007-08-24,NULL
+Vice President of Engineering,1971-03-01,S,1,F,2,63.4615,1,20,0,Engineering,2007-08-31,NULL
+Production Technician - WC10,1956-03-30,M,0,M,1,13.45,84,62,0,Production,2007-09-02,NULL
+Production Supervisor - WC50,1955-10-31,M,0,M,2,25.00,79,59,0,Production,2007-09-08,NULL
+Production Technician - WC10,1956-02-09,S,0,M,1,13.45,85,62,0,Production,2007-09-20,NULL
+Production Supervisor - WC60,1956-05-08,S,0,F,2,25.00,80,60,0,Production,2007-09-27,NULL
+Production Technician - WC10,1955-11-03,M,0,F,1,13.45,86,63,0,Production,2007-10-09,NULL
+Production Supervisor - WC60,1956-03-07,M,0,M,2,25.00,81,60,0,Production,2007-10-16,NULL
+Production Technician - WC10,1955-10-28,M,0,F,1,13.45,87,63,0,Production,2007-10-27,NULL
+Production Technician - WC30,1976-12-12,M,0,M,1,9.50,41,40,0,Production,2008-07-01,NULL
+Production Control Manager,1982-06-03,M,1,M,2,24.5192,43,41,0,Production Control,2008-07-01,NULL
+Production Technician - WC45,1962-04-13,S,0,M,1,10.00,84,62,0,Production,2008-07-02,NULL
+Production Technician - WC45,1975-11-15,S,0,M,1,10.00,85,62,0,Production,2008-07-02,NULL
+Production Technician - WC30,1979-06-02,S,0,M,1,9.50,25,32,0,Production,2008-07-02,NULL
+Production Supervisor - WC10,1983-05-26,S,0,M,2,25.00,66,53,0,Production,2008-07-03,NULL
+Production Technician - WC20,1981-08-03,M,0,M,1,14.00,9,24,0,Production,2008-07-04,NULL
+Production Technician - WC40,1980-06-13,S,0,M,1,15.00,68,54,0,Production,2008-07-04,NULL
+Network Administrator,1976-10-25,S,0,M,2,32.4519,70,55,0,Information Services,2008-07-04,NULL
+Production Technician - WC50,1985-12-28,M,0,M,1,11.00,11,25,0,Production,2008-07-05,NULL
+Human Resources Manager,1975-09-11,M,1,F,2,27.1394,54,47,0,Human Resources,2008-07-06,NULL
+Production Technician - WC40,1988-07-05,S,0,M,1,15.00,52,46,0,Production,2008-07-06,NULL
+Production Technician - WC30,1984-03-25,S,0,M,1,9.50,34,37,0,Production,2008-07-07,NULL
+Production Technician - WC30,1983-02-24,S,0,M,1,9.50,36,38,0,Production,2008-07-07,NULL
+Stocker,1977-09-17,S,0,F,1,9.00,97,68,0,Shipping and Receiving,2008-07-07,NULL
+Shipping and Receiving Clerk,1976-10-16,M,0,M,2,9.50,95,67,0,Shipping and Receiving,2008-07-07,NULL
+Production Technician - WC50,1977-08-26,M,0,F,1,11.00,95,67,0,Production,2008-07-07,NULL
+Production Technician - WC60,1989-12-15,S,0,M,1,12.45,38,39,0,Production,2008-07-08,NULL
+Production Supervisor - WC50,1988-09-05,S,0,M,2,25.00,77,58,0,Production,2008-07-08,NULL
+Production Technician - WC20,1989-12-15,S,0,M,1,14.00,20,30,0,Production,2008-07-09,NULL
+Production Technician - WC45,1988-11-13,M,0,F,1,10.00,79,59,0,Production,2008-07-09,NULL
+Quality Assurance Supervisor,1975-10-17,M,1,M,2,21.6346,81,60,0,Quality Assurance,2008-07-09,NULL
+Information Services Manager,1975-07-13,S,1,F,2,50.4808,65,52,0,Information Services,2008-07-11,NULL
+Production Technician - WC50,1972-06-25,M,0,M,1,11.00,6,23,0,Production,2008-07-12,NULL
+Master Scheduler,1968-04-17,S,0,M,2,23.5577,44,42,0,Production Control,2008-07-12,NULL
+Production Technician - WC40,1989-01-23,S,0,M,1,15.00,47,43,0,Production,2008-07-12,NULL
+Marketing Specialist,1986-12-19,S,0,M,2,14.4231,45,42,0,Marketing,2008-07-12,NULL
+Recruiter,1978-02-15,S,0,M,2,18.2692,49,44,0,Human Resources,2008-07-13,NULL
+Production Technician - WC50,1979-02-03,S,0,M,1,11.00,90,65,0,Production,2008-07-14,NULL
+Maintenance Supervisor,1975-08-18,M,1,M,2,20.4327,92,66,0,Facilities and Maintenance,2008-07-14,NULL
+Production Technician - WC30,1982-10-31,S,0,F,1,9.50,31,35,0,Production,2008-07-14,NULL
+Production Supervisor - WC40,1987-03-27,M,0,M,2,25.00,72,56,0,Production,2008-07-15,NULL
+Production Technician - WC45,1984-09-06,S,0,M,1,10.00,74,57,0,Production,2008-07-15,NULL
+Production Technician - WC60,1984-07-29,M,0,M,1,12.45,33,36,0,Production,2008-07-15,NULL
+Control Specialist,1989-11-26,S,0,M,2,16.8269,76,58,0,Document Control,2008-07-16,NULL
+Production Technician - WC20,1974-05-16,S,0,M,1,14.00,15,27,0,Production,2008-07-16,NULL
+Production Technician - WC40,1985-07-25,S,0,M,1,15.00,58,49,0,Production,2008-07-17,NULL
+Production Technician - WC60,1976-07-26,M,0,M,1,12.45,17,28,0,Production,2008-07-17,NULL
+Production Technician - WC50,1977-09-25,S,0,M,1,11.00,93,66,0,Production,2008-07-17,NULL
+Accounts Receivable Specialist,1975-10-05,M,0,F,2,19.00,60,50,0,Finance,2008-07-18,NULL
+Production Technician - WC50,1986-04-08,M,0,M,1,11.00,1,20,0,Production,2008-07-19,NULL
+Production Technician - WC30,1983-05-19,M,0,F,1,9.50,42,41,0,Production,2008-07-19,NULL
+Production Technician - WC30,1976-11-14,M,0,M,1,9.50,26,33,0,Production,2008-07-21,NULL
+Production Technician - WC40,1987-12-15,S,0,M,1,15.00,69,54,0,Production,2008-07-22,NULL
+Production Supervisor - WC10,1983-11-10,M,0,M,2,25.00,67,53,0,Production,2008-07-22,NULL
+Production Technician - WC20,1966-09-30,M,0,M,1,14.00,10,25,0,Production,2008-07-23,NULL
+Application Specialist,1984-08-30,M,1,F,2,27.4038,71,55,0,Information Services,2008-07-23,NULL
+Production Technician - WC50,1979-03-16,S,0,M,1,11.00,12,26,0,Production,2008-07-24,NULL
+Production Technician - WC40,1980-05-04,M,0,M,1,15.00,53,46,0,Production,2008-07-24,NULL
+Production Technician - WC50,1987-02-14,M,0,F,1,11.00,96,68,0,Production,2008-07-25,NULL
+Benefits Specialist,1984-06-20,M,0,F,2,16.5865,51,45,0,Human Resources,2008-07-25,NULL
+Finance Manager,1984-05-11,S,1,F,2,43.2692,55,47,0,Finance,2008-07-25,NULL
+Stocker,1983-11-29,S,0,F,1,9.00,98,69,0,Shipping and Receiving,2008-07-26,NULL
+Production Technician - WC30,1975-06-05,M,0,F,1,9.50,37,38,0,Production,2008-07-26,NULL
+Production Supervisor - WC50,1979-11-27,S,0,M,2,25.00,78,59,0,Production,2008-07-27,NULL
+Production Technician - WC45,1985-06-24,M,0,M,1,10.00,80,60,0,Production,2008-07-27,NULL
+Production Technician - WC60,1984-02-23,M,0,M,1,12.45,39,39,0,Production,2008-07-27,NULL
+Quality Assurance Technician,1975-10-05,S,0,M,2,10.5769,82,61,0,Quality Assurance,2008-07-28,NULL
+Production Technician - WC20,1986-07-01,S,0,M,1,14.00,21,30,0,Production,2008-07-28,NULL
+Research and Development Engineer,1986-01-03,S,1,F,2,40.8654,62,51,0,Research and Development,2008-07-29,NULL
+Production Technician - WC60,1988-02-04,M,0,F,1,12.45,23,31,0,Production,2008-07-29,NULL
+Production Technician - WC40,1977-05-04,M,0,M,1,15.00,48,44,0,Production,2008-07-31,NULL
+Recruiter,1984-03-01,S,0,M,2,18.2692,50,45,0,Human Resources,2008-08-01,NULL
+Production Technician - WC50,1977-12-29,S,0,M,1,11.00,91,65,0,Production,2008-08-01,NULL
+Production Technician - WC60,1988-06-19,M,0,F,1,12.45,34,37,0,Production,2008-08-02,NULL
+Shipping and Receiving Supervisor,1972-04-09,S,1,M,2,19.2308,93,66,0,Shipping and Receiving,2008-08-02,NULL
+Production Technician - WC30,1981-03-03,S,0,M,1,9.50,32,36,0,Production,2008-08-02,NULL
+Production Supervisor - WC40,1983-01-30,S,0,M,2,25.00,73,56,0,Production,2008-08-03,NULL
+Production Technician - WC45,1980-07-25,S,0,F,1,10.00,75,57,0,Production,2008-08-03,NULL
+Production Technician - WC60,1985-12-18,M,0,F,1,12.45,18,29,0,Production,2008-08-04,NULL
+Document Control Manager,1975-08-30,M,0,M,2,17.7885,77,58,0,Document Control,2008-08-04,NULL
+Production Technician - WC40,1988-06-26,M,0,F,1,15.00,49,44,0,Production,2008-08-04,NULL
+Production Technician - WC20,1988-09-15,S,0,M,1,14.00,16,28,0,Production,2008-08-04,NULL
+Production Technician - WC40,1972-01-12,M,0,M,1,15.00,59,49,0,Production,2008-08-05,NULL
+Accounts Receivable Specialist,1975-09-23,S,0,F,2,19.00,61,50,0,Finance,2008-08-06,NULL
+Production Technician - WC50,1978-10-27,S,0,M,1,11.00,2,21,0,Production,2008-08-06,NULL
+Scheduling Assistant,1981-06-06,M,0,M,2,16.00,45,42,0,Production Control,2008-08-07,2011-03-31
+Scheduling Assistant,1981-06-06,M,0,M,2,16.00,45,42,0,Production Control,2011-04-01,NULL
+Production Technician - WC30,1989-06-06,S,0,M,1,9.50,43,41,0,Production,2008-08-07,NULL
+Production Technician - WC45,1986-09-10,M,0,M,1,10.00,86,63,0,Production,2008-08-08,NULL
+Production Technician - WC40,1990-08-04,S,0,M,1,15.00,70,55,0,Production,2008-08-10,NULL
+Production Technician - WC20,1974-04-23,M,0,M,1,14.00,11,25,0,Production,2008-08-11,NULL
+Production Technician - WC50,1976-09-03,S,0,M,1,11.00,13,26,0,Production,2008-08-11,NULL
+Application Specialist,1981-01-24,M,1,M,2,27.4038,72,56,0,Information Services,2008-08-11,NULL
+Assistant to the Chief Financial Officer,1964-01-20,S,0,M,2,13.4615,56,48,0,Finance,2008-08-12,NULL
+Production Technician - WC50,1972-08-24,M,0,M,1,11.00,7,23,0,Production,2008-08-12,NULL
+Production Technician - WC40,1986-09-10,M,0,F,1,15.00,54,47,0,Production,2008-08-12,NULL
+Marketing Specialist,1962-04-13,M,0,F,2,14.4231,46,43,0,Marketing,2008-08-12,NULL
+Production Technician - WC50,1977-12-05,M,0,M,1,11.00,97,68,0,Production,2008-08-13,NULL
+Production Supervisor - WC20,1984-08-19,M,0,M,2,25.00,40,40,0,Production,2008-08-14,NULL
+Chief Executive Officer,1968-08-29,S,1,M,2,125.50,99,69,0,Executive,2008-08-14,NULL
+Production Technician - WC30,1988-07-07,S,0,M,1,9.50,38,39,0,Production,2008-08-14,NULL
+Quality Assurance Technician,1985-11-28,S,0,M,2,10.5769,83,61,0,Quality Assurance,2008-08-15,NULL
+Production Technician - WC45,1972-02-22,S,0,F,1,10.00,81,60,0,Production,2008-08-15,NULL
+Production Technician - WC30,1986-05-24,M,0,M,1,9.50,22,31,0,Production,2008-08-16,NULL
+Research and Development Engineer,1978-08-21,M,1,F,2,40.8654,63,51,0,Research and Development,2008-08-16,NULL
+Production Technician - WC20,1990-06-04,M,0,M,1,14.00,6,23,0,Production,2008-08-17,NULL
+Production Technician - WC40,1987-04-06,M,0,M,1,15.00,56,48,0,Production,2008-08-17,NULL
+Database Administrator,1980-06-13,S,1,M,2,38.4615,67,53,0,Information Services,2008-08-17,NULL
+Production Technician - WC50,1989-03-09,S,0,F,1,11.00,8,24,0,Production,2008-08-18,NULL
+Marketing Specialist,1979-01-16,M,0,F,2,14.4231,47,43,0,Marketing,2008-08-18,NULL
+Production Technician - WC50,1990-12-29,S,0,F,1,11.00,92,66,0,Production,2008-08-20,NULL
+Shipping and Receiving Clerk,1973-06-11,M,0,M,2,9.50,94,67,0,Shipping and Receiving,2008-08-20,NULL
+Production Technician - WC60,1973-03-27,S,0,M,1,12.45,35,37,0,Production,2008-08-21,NULL
+Production Supervisor - WC45,1976-08-15,M,0,M,2,25.00,74,57,0,Production,2008-08-21,NULL
+Production Technician - WC30,1987-02-12,S,0,M,1,9.50,33,36,0,Production,2008-08-21,NULL
+Production Technician - WC20,1984-07-29,M,0,F,1,14.00,17,28,0,Production,2008-08-22,NULL
+Production Technician - WC45,1988-07-16,M,0,M,1,10.00,76,58,0,Production,2008-08-22,NULL
+Document Control Assistant,1986-10-10,S,0,M,2,10.25,78,59,0,Document Control,2008-08-22,NULL
+Database Administrator,1975-08-06,M,1,M,2,38.4615,66,53,0,Information Services,2008-08-22,NULL
+Production Technician - WC60,1979-04-25,S,0,M,1,12.45,19,29,0,Production,2008-08-23,NULL
+Accounts Receivable Specialist,1984-04-20,S,0,M,2,19.00,62,51,0,Finance,2008-08-24,NULL
+Production Technician - WC50,1971-03-30,M,0,M,1,11.00,3,21,0,Production,2008-08-25,NULL
+Scheduling Assistant,1987-07-22,M,0,M,2,16.00,46,43,0,Production Control,2008-08-26,NULL
+Production Technician - WC30,1982-01-25,S,0,M,1,9.50,44,42,0,Production,2008-08-26,NULL
+Production Technician - WC30,1985-08-05,S,0,M,1,9.50,28,34,0,Production,2008-08-27,NULL
+Production Supervisor - WC30,1981-03-18,S,0,F,2,25.00,69,54,0,Production,2008-08-27,NULL
+Production Technician - WC45,1990-06-01,M,0,F,1,10.00,87,63,0,Production,2008-08-27,NULL
+Production Technician - WC60,1989-04-28,M,0,F,1,12.45,14,27,0,Production,2008-08-29,NULL
+Production Technician - WC40,1976-09-10,S,0,M,1,15.00,55,47,0,Production,2008-08-29,NULL
+Accounts Manager,1983-02-05,M,1,M,2,34.7356,57,48,0,Finance,2008-08-30,NULL
+Chief Financial Officer,1975-08-06,M,1,F,2,60.0962,0,20,0,Executive,2008-08-31,2013-06-13
+Chief Financial Officer,1975-08-06,M,1,F,2,60.0962,0,20,0,Executive,2013-06-13,NULL
+Production Technician - WC50,1973-12-01,S,0,M,1,11.00,98,69,0,Production,2008-08-31,NULL
+Production Technician - WC30,1983-05-20,M,0,M,1,9.50,39,39,0,Production,2008-08-31,NULL
+Production Supervisor - WC20,1976-11-04,M,0,M,2,25.00,41,40,0,Production,2008-09-01,NULL
+Production Technician - WC45,1984-09-28,S,0,M,1,10.00,82,61,0,Production,2008-09-02,NULL
+Quality Assurance Technician,1988-10-26,M,0,M,2,10.5769,84,62,0,Quality Assurance,2008-09-02,NULL
+Production Technician - WC30,1988-08-08,M,0,M,1,9.50,23,31,0,Production,2008-09-02,NULL
+Production Technician - WC20,1977-05-05,S,0,F,1,14.00,12,26,0,Production,2008-09-03,NULL
+Vice President of Production,1988-02-04,S,1,M,2,84.1346,64,52,0,Production,2008-09-03,NULL
+Application Specialist,1987-10-12,S,1,M,2,27.4038,73,56,0,Information Services,2008-09-03,NULL
+Network Manager,1983-10-24,S,1,F,2,39.6635,68,54,0,Information Services,2008-09-04,NULL
+Production Technician - WC20,1987-06-22,M,0,F,1,14.00,7,23,0,Production,2008-09-04,NULL
+Production Technician - WC40,1989-06-10,S,0,M,1,15.00,50,45,0,Production,2008-09-05,NULL
+Production Technician - WC50,1988-02-04,M,0,F,1,11.00,9,24,0,Production,2008-09-05,NULL
+Human Resources Administrative Assistant,1976-11-15,S,0,M,2,13.9423,52,46,0,Human Resources,2008-09-06,NULL
+Production Technician - WC45,1989-11-11,M,0,M,1,10.00,77,58,0,Production,2008-09-08,NULL
+Production Technician - WC60,1975-09-10,S,0,M,1,12.45,36,38,0,Production,2008-09-08,NULL
+Production Technician - WC60,1976-08-10,M,0,M,1,12.45,22,31,0,Production,2008-09-08,NULL
+Research and Development Manager,1986-09-24,M,1,M,2,50.4808,61,50,0,Research and Development,2008-09-08,NULL
+Production Supervisor - WC45,1989-12-22,S,0,M,2,25.00,75,57,0,Production,2008-09-08,NULL
+Production Technician - WC20,1985-11-03,M,0,M,1,14.00,18,29,0,Production,2008-09-09,NULL
+Document Control Assistant,1975-07-25,M,0,F,2,10.25,79,59,0,Document Control,2008-09-09,NULL
+Production Technician - WC60,1984-02-29,M,0,M,1,12.45,20,30,0,Production,2008-09-10,NULL
+Production Technician - WC50,1985-10-19,S,0,M,1,11.00,0,20,0,Production,2008-09-10,NULL
+Buyer,1984-03-17,S,0,M,2,18.2692,59,49,0,Purchasing,2008-09-10,NULL
+Production Technician - WC50,1978-01-24,M,0,M,1,11.00,4,22,0,Production,2008-09-11,NULL
+Accounts Payable Specialist,1976-09-14,M,0,M,2,19.00,63,51,0,Finance,2008-09-11,NULL
+Production Technician - WC30,1988-05-17,M,0,F,1,9.50,45,42,0,Production,2008-09-12,NULL
+Production Technician - WC40,1973-03-04,S,0,M,1,15.00,71,55,0,Production,2008-09-13,NULL
+Production Technician - WC50,1971-01-11,M,0,M,1,11.00,88,64,0,Production,2008-09-13,NULL
+Scheduling Assistant,1983-10-28,M,0,M,2,16.00,47,43,0,Production Control,2008-09-13,NULL
+Production Technician - WC30,1985-04-23,M,0,M,1,9.50,29,34,0,Production,2008-09-14,NULL
+Production Technician - WC40,1990-05-07,S,0,M,1,15.00,72,56,0,Production,2008-09-15,NULL
+Production Supervisor - WC30,1988-08-29,S,0,M,2,25.00,70,55,0,Production,2008-09-15,NULL
+Production Technician - WC60,1990-11-04,S,0,M,1,12.45,31,35,0,Production,2008-09-15,NULL
+Production Technician - WC60,1987-01-08,M,0,F,1,12.45,15,27,0,Production,2008-09-16,NULL
+Application Specialist,1977-12-17,S,1,F,2,27.4038,74,57,0,Information Services,2008-09-16,NULL
+Production Technician - WC20,1984-07-08,S,0,M,1,14.00,13,26,0,Production,2008-09-16,NULL
+Accountant,1975-08-04,M,1,F,2,26.4423,58,49,0,Finance,2008-09-18,NULL
+Production Technician - WC50,1990-03-04,M,0,M,1,11.00,99,69,0,Production,2008-09-18,NULL
+Production Technician - WC30,1977-04-13,M,0,M,1,9.50,40,40,0,Production,2008-09-19,NULL
+Production Technician - WC45,1974-10-15,S,0,F,1,10.00,83,61,0,Production,2008-09-20,NULL
+Production Supervisor - WC20,1984-06-18,S,0,F,2,25.00,42,41,0,Production,2008-09-20,NULL
+Production Technician - WC30,1981-09-11,M,0,M,1,9.50,24,32,0,Production,2008-09-21,NULL
+Production Supervisor - WC30,1983-01-20,S,0,M,2,25.00,68,54,0,Production,2008-09-21,NULL
+Production Supervisor - WC10,1988-04-06,S,0,M,2,25.00,65,52,0,Production,2008-09-22,NULL
+Production Technician - WC40,1985-11-07,M,0,F,1,15.00,67,53,0,Production,2008-09-22,NULL
+Production Technician - WC50,1971-02-21,S,0,M,1,11.00,10,25,0,Production,2008-09-23,NULL
+Network Administrator,1979-12-27,S,0,M,2,32.4519,69,54,0,Information Services,2008-09-23,NULL
+Production Technician - WC20,1974-04-05,S,0,F,1,14.00,8,24,0,Production,2008-09-23,NULL
+Production Technician - WC40,1980-12-26,M,0,M,1,15.00,51,45,0,Production,2008-09-24,NULL
+Human Resources Administrative Assistant,1975-11-15,S,0,M,2,13.9423,53,46,0,Human Resources,2008-09-25,NULL
+Production Technician - WC50,1989-01-13,S,0,M,1,11.00,94,67,0,Production,2008-09-25,NULL
+Production Technician - WC45,1987-10-13,S,0,M,1,10.00,78,59,0,Production,2008-09-26,NULL
+Production Technician - WC60,1985-08-10,M,0,M,1,12.45,37,38,0,Production,2008-09-26,NULL
+Stocker,1990-06-01,M,0,M,1,9.00,96,68,0,Shipping and Receiving,2008-09-26,NULL
+Production Technician - WC30,1982-04-18,M,0,M,1,9.50,35,37,0,Production,2008-09-26,NULL
+Production Supervisor - WC45,1980-02-16,S,0,F,2,25.00,76,58,0,Production,2008-09-26,NULL
+Buyer,1974-03-21,M,0,M,2,18.2692,60,50,0,Purchasing,2008-09-28,NULL
+Production Technician - WC20,1975-07-21,S,0,M,1,14.00,19,29,0,Production,2008-09-28,NULL
+Quality Assurance Manager,1977-05-26,S,1,M,2,28.8462,80,60,0,Quality Assurance,2008-09-28,NULL
+Accounts Payable Specialist,1978-10-07,M,0,F,2,19.00,64,52,0,Finance,2008-09-29,NULL
+Production Technician - WC50,1989-08-25,M,0,F,1,11.00,5,22,0,Production,2008-09-30,NULL
+Marketing Specialist,1985-09-04,M,0,M,2,14.4231,44,42,0,Marketing,2008-09-30,NULL
+Production Technician - WC30,1981-10-22,S,0,M,1,9.50,27,33,0,Production,2008-10-01,NULL
+Production Technician - WC30,1982-12-11,M,0,F,1,9.50,46,43,0,Production,2008-10-01,NULL
+Scheduling Assistant,1984-03-11,M,0,M,2,16.00,48,44,0,Production Control,2008-10-01,NULL
+Production Technician - WC50,1987-01-04,S,0,F,1,11.00,89,64,0,Production,2008-10-02,NULL
+Production Technician - WC60,1975-09-11,S,0,M,1,12.45,32,36,0,Production,2008-10-03,NULL
+Production Technician - WC30,1974-06-15,S,0,M,1,9.50,30,35,0,Production,2008-10-03,NULL
+Production Supervisor - WC40,1982-09-28,M,0,F,2,25.00,71,55,0,Production,2008-10-03,NULL
+Production Technician - WC45,1988-04-24,S,0,M,1,10.00,73,56,0,Production,2008-10-04,NULL
+Control Specialist,1986-12-24,M,0,M,2,16.8269,75,57,0,Document Control,2008-10-04,NULL
+Production Technician - WC60,1986-03-07,S,0,M,1,12.45,16,28,0,Production,2008-10-05,NULL
+Production Technician - WC20,1986-07-08,S,0,F,1,14.00,14,27,0,Production,2008-10-05,NULL
+Production Technician - WC40,1987-12-09,M,0,M,1,15.00,57,48,0,Production,2008-10-06,NULL
+Accountant,1979-01-29,S,1,M,2,26.4423,59,49,0,Finance,2008-10-06,NULL
+Research and Development Manager,1984-06-30,M,1,M,2,42.4808,16,64,0,Research and Development,2008-12-01,NULL
+Facilities Manager,1970-09-18,M,1,M,2,24.0385,86,63,0,Facilities and Maintenance,2009-07-02,NULL
+Production Technician - WC60,1971-04-02,S,0,M,1,12.45,27,33,0,Production,2009-07-03,NULL
+Production Technician - WC10,1986-04-22,S,0,M,1,13.45,93,66,0,Production,2009-07-06,NULL
+Production Technician - WC20,1970-06-12,M,0,M,1,14.00,4,22,0,Production,2009-07-11,NULL
+Production Technician - WC40,1970-07-23,S,0,M,1,15.00,63,51,0,Production,2009-07-11,NULL
+Buyer,1970-06-30,M,0,F,2,18.2692,56,48,0,Purchasing,2009-07-17,NULL
+Production Technician - WC10,1942-07-17,S,0,F,1,13.45,99,69,0,Production,2009-07-18,NULL
+Facilities Administrative Assistant,1971-03-27,M,0,M,2,9.75,87,63,0,Facilities and Maintenance,2009-07-21,NULL
+Production Technician - WC60,1969-10-05,S,0,M,1,12.45,28,34,0,Production,2009-07-22,NULL
+Production Technician - WC10,1986-04-19,M,0,F,1,13.45,94,67,0,Production,2009-07-25,NULL
+Production Technician - WC10,1986-04-19,S,0,M,1,13.45,90,65,0,Production,2009-07-25,NULL
+Production Technician - WC40,1970-10-07,S,0,M,1,15.00,64,52,0,Production,2009-07-29,NULL
+Production Technician - WC10,1986-04-10,M,0,F,1,13.45,89,64,0,Production,2009-08-01,NULL
+Buyer,1970-06-24,M,0,M,2,18.2692,57,48,0,Purchasing,2009-08-04,NULL
+Production Technician - WC20,1971-05-23,S,0,M,1,14.00,0,20,0,Production,2009-08-06,NULL
+Buyer,1942-06-29,M,0,M,2,18.2692,52,46,0,Purchasing,2009-08-11,NULL
+Production Technician - WC10,1986-04-13,S,0,F,1,13.45,95,67,0,Production,2009-08-12,NULL
+Production Technician - WC60,1942-07-14,M,0,F,1,12.45,24,32,0,Production,2009-08-16,NULL
+Production Technician - WC40,1970-07-03,S,0,M,1,15.00,65,52,0,Production,2009-08-17,NULL
+Production Technician - WC20,1952-11-28,M,0,M,1,14.00,5,22,0,Production,2009-08-22,NULL
+Buyer,1951-12-11,M,0,M,2,18.2692,58,49,0,Purchasing,2009-08-23,NULL
+Production Technician - WC20,1974-04-10,M,0,M,1,14.00,1,20,0,Production,2009-08-24,NULL
+Production Technician - WC40,1942-07-08,M,0,M,1,15.00,60,50,0,Production,2009-08-24,NULL
+Buyer,1972-04-17,S,0,M,2,18.2692,54,47,0,Purchasing,2009-08-27,NULL
+Janitor,1970-07-03,S,0,M,1,9.25,89,64,0,Facilities and Maintenance,2009-08-27,NULL
+Production Technician - WC60,1954-08-30,S,0,M,1,12.45,30,35,0,Production,2009-08-29,NULL
+Buyer,1970-08-04,S,0,F,2,18.2692,53,46,0,Purchasing,2009-08-31,NULL
+Production Technician - WC10,1986-04-10,S,0,M,1,13.45,96,68,0,Production,2009-09-01,NULL
+Production Technician - WC40,1951-10-01,M,0,M,1,15.00,66,53,0,Production,2009-09-05,NULL
+Production Technician - WC60,1971-04-11,S,0,M,1,12.45,25,32,0,Production,2009-09-05,NULL
+Production Technician - WC10,1986-05-01,M,0,M,1,13.45,91,65,0,Production,2009-09-08,NULL
+Production Technician - WC40,1973-07-23,M,0,M,1,15.00,61,50,0,Production,2009-09-12,NULL
+Production Technician - WC20,1971-04-05,S,0,M,1,14.00,2,21,0,Production,2009-09-13,NULL
+Janitor,1970-02-28,M,0,F,1,9.25,90,65,0,Facilities and Maintenance,2009-09-16,NULL
+Production Technician - WC10,1986-04-07,S,0,F,1,13.45,97,68,0,Production,2009-09-20,NULL
+Quality Assurance Technician,1942-07-05,M,0,M,2,10.5769,85,62,0,Quality Assurance,2009-09-23,NULL
+Production Technician - WC60,1973-04-05,S,0,M,1,12.45,26,33,0,Production,2009-09-23,NULL
+Production Technician - WC60,1969-11-26,M,0,M,1,12.45,29,34,0,Production,2009-09-23,NULL
+Production Technician - WC10,1986-04-28,S,0,M,1,13.45,92,66,0,Production,2009-09-27,NULL
+Production Technician - WC40,1973-03-29,S,0,M,1,15.00,62,51,0,Production,2009-10-01,NULL
+Production Technician - WC20,1969-11-02,S,0,F,1,14.00,3,21,0,Production,2009-10-02,NULL
+Janitor,1971-07-17,M,0,M,1,9.25,88,64,0,Facilities and Maintenance,2009-10-03,NULL
+Janitor,1953-11-22,M,0,F,1,9.25,91,65,0,Facilities and Maintenance,2009-10-05,NULL
+Buyer,1973-01-01,M,0,M,2,18.2692,55,47,0,Purchasing,2009-10-07,NULL
+Production Technician - WC10,1986-05-01,M,0,M,1,13.45,98,69,0,Production,2009-10-08,NULL
+Senior Tool Designer,1977-08-17,S,0,M,2,28.8462,7,23,0,Tool Design,2010-07-05,NULL
+Purchasing Assistant,1977-08-29,M,0,F,2,12.75,50,45,0,Purchasing,2010-07-06,NULL
+Tool Designer,1988-12-26,M,0,F,2,25.00,8,24,0,Tool Design,2010-07-23,NULL
+Purchasing Assistant,1977-08-17,M,0,M,2,12.75,51,45,0,Purchasing,2010-07-25,NULL
+Senior Design Engineer,1979-01-14,S,1,M,2,36.0577,3,21,0,Engineering,2010-07-30,NULL
+North American Sales Manager,1951-05-17,M,1,M,2,48.101,14,27,1,Sales,2010-08-04,NULL
+Marketing Assistant,1974-10-15,M,0,F,2,13.4615,41,40,0,Marketing,2010-08-07,NULL
+Design Engineer,1960-11-30,M,1,F,2,32.6923,4,22,0,Engineering,2010-08-18,NULL
+Marketing Specialist,1977-10-04,S,0,M,2,14.4231,48,44,0,Marketing,2010-09-07,NULL
+Marketing Assistant,1977-08-29,S,0,F,2,13.4615,43,41,0,Marketing,2010-09-14,NULL
+Vice President of Sales,1977-01-04,S,1,M,2,72.1154,10,25,0,Sales,2010-09-15,NULL
+Purchasing Manager,1977-09-10,S,1,F,2,30.00,49,44,0,Purchasing,2010-09-25,2011-02-27
+Purchasing Manager,1977-09-10,S,1,F,2,30.00,49,44,0,Purchasing,2011-02-28,2012-02-12
+Purchasing Manager,1977-09-10,S,1,F,2,30.00,49,44,0,Purchasing,2012-02-13,NULL
+Sales Representative,1968-07-25,S,1,M,2,23.0769,38,39,1,Sales,2010-12-29,NULL
+Sales Representative,1979-09-27,M,1,F,2,23.0769,27,33,1,Sales,2010-12-29,NULL
+Sales Representative,1962-03-29,S,1,F,2,23.0769,24,32,1,Sales,2010-12-29,NULL
+Sales Representative,1974-09-04,M,1,M,2,23.0769,33,36,1,Sales,2010-12-29,NULL
+Sales Representative,1973-08-18,M,1,M,2,23.0769,29,34,1,Sales,2010-12-29,NULL
+Sales Representative,1974-07-06,S,1,F,2,23.0769,22,31,1,Sales,2010-12-29,NULL
+Sales Representative,1943-10-08,M,1,M,2,23.0769,26,33,1,Sales,2010-12-29,NULL
+Sales Representative,1939-07-11,M,1,M,2,23.0769,31,35,1,Sales,2010-12-29,NULL
+Sales Representative,1973-09-11,S,1,M,2,23.0769,23,31,1,Sales,2010-12-29,NULL
+European Sales Manager,1957-04-20,M,1,F,2,48.101,21,30,1,Sales,2011-11-15,NULL
+Sales Representative,1967-10-16,M,1,F,2,23.0769,37,38,1,Sales,2011-12-29,NULL
+Sales Representative,1975-04-30,S,1,M,2,23.0769,34,37,1,Sales,2011-12-29,NULL
+Sales Representative,1977-08-05,M,1,M,2,23.0769,39,39,1,Sales,2012-04-30,NULL
+Pacific Sales Manager,1974-08-11,M,1,M,2,48.101,20,30,1,Sales,2012-10-12,NULL
+Sales Representative,1975-02-06,S,1,F,2,23.0769,35,37,1,Sales,2012-12-28,NULL
+Sales Representative,1970-10-16,S,1,F,2,23.0769,36,38,1,Sales,2012-12-28,NULL
